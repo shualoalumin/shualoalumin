@@ -1,4 +1,4 @@
-- 📫 How to reach me : Service under development
+- 📫 DATA SCIENCE that changes the world
 
 
 <!---
