@@ -5,7 +5,7 @@
     
  
        
-🌱 I’m Currently Learning: ML, DL, TensorFlow
+🌱 I’m Currently Learning: ML, DL, TensorFlow, Dart, Flutter
 
 
 <!---
