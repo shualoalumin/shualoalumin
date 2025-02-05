@@ -5,7 +5,7 @@
    - Blogging about my learning experiences and practical applications.    
 --->
           
-🌱 Currently Learning: ML, DL, TensorFlow, Dart, Flutter
+🌱 Currently Learning: wandb, vit, firebase, tf cv, mlops 
 
 
 <!---
