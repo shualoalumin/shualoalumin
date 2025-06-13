@@ -5,7 +5,7 @@
    - Blogging about my learning experiences and practical applications.    
 --->
           
-🌱 Currently Learning: wandb, vit, firebase, tf cv, mlops 
+🌱 Currently focusing on model experiments on vit w/ wandb, aligning with mlops 
 
 
 <!---
